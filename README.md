@@ -4,4 +4,4 @@ https://doi.org/10.3390/app11219844
 A small dataset was generated for illustration. Readers are encouraged to try these models on their own data.
 Raw data may be made available upon request from the correspondence author (gchen at mst.edu).
 These models were run in Linux Ubuntu system with python 3.6 and tensorflow 2.2.
-Feel free to contact Xinzhe <yuan.xz at outlook.com>.
+Feel free to contact Xinzhe (yuan.xz at outlook.com) if any questions.
